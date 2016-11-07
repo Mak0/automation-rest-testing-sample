@@ -1,0 +1,1 @@
+Sample project on how to start automating API testing
